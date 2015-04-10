@@ -176,8 +176,9 @@ and open the template in the editor.
 
                 </div>
 
-                <div class="modal-footer">
+                <div id="copyright">
                     <p>Copyright &copy; Hotel-Ino 2015</p>
+                    <p><a href="#">Admin</a> | Creation : <a href="#">Samuel Kamdoum Folong</a></p>
                 </div>
             </div>
         </div>

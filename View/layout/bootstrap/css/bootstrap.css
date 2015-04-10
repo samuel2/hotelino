@@ -187,6 +187,26 @@ td,
 th {
   padding: 0;
 }
+
+/* Copyright */
+#copyright {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+#copyright p {
+    text-align: center;
+    font-size: 12px;
+}
+
+#copyright p a:hover {
+    color: #000;
+}
+
+#copyright p a {
+    text-decoration: none;
+}
+
 @media print {
   * {
     color: #000 !important;
